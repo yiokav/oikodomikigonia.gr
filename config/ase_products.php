@@ -32,8 +32,8 @@ return [
         'alp-130' => 27,
     ],
     'categories' => [
-        'piston' => 'Αντλίες εμβόλου για σκόνη και γόβα',
-        'traditional' => 'Παραδοσιακές αντλίες γόβας',
+        'piston' => 'Αντλίες εμβόλου για σκόνη και σοβά',
+        'traditional' => 'Παραδοσιακές αντλίες σοβά',
         'mixing' => 'Αντλίες ανάμειξης',
         'ready_mix' => 'Αντλίες έτοιμου κονιάματος',
         'wet_screed' => 'Αντλίες έτοιμου αναμειξής για υγρό κονιαματόδεσμο',
@@ -51,8 +51,8 @@ return [
     'products' => [
         ['slug' => 'hsp-em', 'name' => 'ASE HSP/EM', 'category' => 'piston', 'short' => 'Ηλεκτρική αντλία διπλού εμβόλου υψηλής πίεσης με ανυψωτικό αναμικτήρα.'],
         ['slug' => 'hsp-dm', 'name' => 'ASE HSP/DM', 'category' => 'piston', 'short' => 'Αντλία διπλού εμβόλου με ντίζελ και ανυψωτικό αναμικτήρα.'],
-        ['slug' => 'vp-500-tmk-dhs', 'name' => 'ASE VP 500 TMK/DHS', 'category' => 'traditional', 'short' => 'Παραδοσιακή αντλία γόβας ντίζελ με υδραυλικό κινητήρα και ανατρεπόμενο αναδευτήρα.'],
-        ['slug' => 'vp-500-tmk', 'name' => 'ASE VP 500 TMK', 'category' => 'traditional', 'short' => 'Ηλεκτρική παραδοσιακή αντλία γόβας με ανατρεπόμενο αναδευτήρα.'],
+        ['slug' => 'vp-500-tmk-dhs', 'name' => 'ASE VP 500 TMK/DHS', 'category' => 'traditional', 'short' => 'Παραδοσιακή αντλία σοβά ντίζελ με υδραυλικό κινητήρα και ανατρεπόμενο αναδευτήρα.'],
+        ['slug' => 'vp-500-tmk', 'name' => 'ASE VP 500 TMK', 'category' => 'traditional', 'short' => 'Ηλεκτρική παραδοσιακή αντλία σοβά με ανατρεπόμενο αναδευτήρα.'],
         ['slug' => 'vp-500-dhl', 'name' => 'ASE VP 500 DHL', 'category' => 'traditional', 'short' => 'Ντίζελ με υδραυλικό κινητήρα και ανυψωτικό αναδευτήρα.'],
         ['slug' => 'vp-500-ehl', 'name' => 'ASE VP 500 EHL', 'category' => 'traditional', 'short' => 'Ηλεκτρική αντλία με ανυψωτικό αναδευτήρα.'],
         ['slug' => 'vp-500-tmk-ehl', 'name' => 'ASE VP 500 TMK/EHL', 'category' => 'traditional', 'short' => 'Ηλεκτρικό μοντέλο με αναδευτήρα κλίσης.'],
