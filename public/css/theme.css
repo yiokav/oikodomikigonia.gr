@@ -14829,6 +14829,28 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   transition-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
 }
 
+.social-media svg {
+  width: 40px;
+  height: 40px;
+}
+
+.social-media a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: bold;
+}
+
+.logo-list li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.logo-list li img {
+  display: block;
+  height: 36px;
+}
+
 @media screen {
   html:not(.no-js) [data-aos^=fade][data-aos^=fade] {
     opacity: 0;
