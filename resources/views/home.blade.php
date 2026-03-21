@@ -5,14 +5,16 @@
 
   <div class="container position-relative">
     <div class="col-12 col-lg-8 mt-0 h-100 position-absolute top-0 end-0 bg-cover" data-aos="fade-left"
-      style="background-image: url('{{ asset('img/buddy-an.jpg') }}');">
+      style="background-image: url('{{ asset('img/tools.jpg') }}');">
 
     </div>
     <div class="row">
 
       <div class="col-lg-7 py-vh-6 position-relative" data-aos="fade-right">
-        <h1 class="display-1 fw-bold mt-5">Για όσους δεν κάνουν εκπτώσεις στην ποιότητα!</h1>
-        <p class="lead">Στην οικοδομή δεν χωρούν συμβιβασμοί. Χρειάζεσαι υλικά που αντέχουν. Εργαλεία που αποδίδουν. Συνεργάτες που ξέρουν.</p>
+        <div class="bg-light-soft rounded-3 p-4">
+          <h1 class="display-1 fw-bold mt-5">Για όσους δεν κάνουν εκπτώσεις στην ποιότητα!</h1>
+          <p class="lead">Στην οικοδομή δεν χωρούν συμβιβασμοί. Χρειάζεσαι υλικά που αντέχουν. Εργαλεία που αποδίδουν. Συνεργάτες που ξέρουν.</p>
+        </div>
       </div>
 
 
@@ -95,7 +97,7 @@
           </div>
           <div class="col-md-5 offset-md-1">
             <div class="shadow ratio ratio-1x1 rounded bg-cover mt-5 bp-center float-end" data-aos="fade-up"
-              style="background-image: url('{{ asset('img/tools.jpg') }}');">
+              style="background-image: url('{{ asset('img/sandie-clarke.jpg') }}');">
             </div>
           </div>
           <div class="col-md-6">
